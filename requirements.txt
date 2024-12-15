@@ -1,0 +1,4 @@
+flask
+ultralytics
+deepface
+opencv-python
