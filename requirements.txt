@@ -2,3 +2,5 @@ flask
 ultralytics
 deepface
 opencv-python
+torch
+torchvision
